@@ -1,0 +1,71 @@
+# ===================================== #
+# UNITY FOLDERS
+# ===================================== #
+Temp
+Library
+Obj
+obj
+Deployment
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ===================================== #
+# OS generated
+# ===================================== #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# ===================================== #
+# CUSTOM
+# ===================================== #
+# PROJECT-RELATED
+Assets/_Content/GUI
+Assets/zNotes
+
+# COPYRIGHTED / ASSET STORE
+zAssets
+Assets/NGUI
+Assets/6by7
+Assets/ProCore
+Assets/Hard Surface Pro
+Assets/Behavior Designer
+Assets/Plugins/Vectrosity.dll
+
+# UNITY PRO
+Assets/Standard Assets/Image Effects (Pro Only)
+Assets/Editor/Image Effects
+
+# GITEYE
+*.project
