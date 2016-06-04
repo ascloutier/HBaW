@@ -68,7 +68,7 @@ public class FactoryManager : MonoBehaviour
 			}
 			
 		} else {
-			if (planetPlaceholder.activeSelf == true) {
+			if (planetPlaceholder && planetPlaceholder.activeSelf == true) {
 				planetPlaceholder.SetActive (false);
 			}
 		}
